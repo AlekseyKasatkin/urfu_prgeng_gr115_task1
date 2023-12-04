@@ -1,6 +1,6 @@
 ## Обнаружение иронии в текстах 
 ### Решение включает в себя:
- - предобученную [модель](https://huggingface.co/cardiffnlp/twitter-roberta-base-irony)
+ - предобученную модель [twitter-roberta-base-irony](https://huggingface.co/cardiffnlp/twitter-roberta-base-irony)
  - web-интерфейс для взаимодействия пользователя с модель, реализованный с помощью streamlit
 
 ### Для запуска:
