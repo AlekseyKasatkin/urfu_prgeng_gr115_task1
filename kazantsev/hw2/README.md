@@ -6,4 +6,5 @@
 ### Для запуска:
 ```> streamlit run irony_detector.py```
 
-### 
+### Пример работы:
+![](image.png)
